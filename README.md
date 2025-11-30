@@ -88,12 +88,7 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
 ## 📊 GitHub Activity
 <p align="center">
   
-  <p>
-  <img src="https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-25%25-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-20%25-red?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-15%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUWANgsv&theme=default" />
 </p>
