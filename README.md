@@ -1,8 +1,12 @@
+<!-- ========================== -->
+<!--    GUWAN DEHIGASTHENNA     -->
+<!-- ========================== -->
+
 <h1 align="center">Hi 👋, I'm Guwan Dehigasthenna</h1>
 <h3 align="center">Full Stack Developer | GenAI & Agentic AI Learner | Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guwangsv&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=GUWANgsv&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -18,7 +22,7 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
 ---
 
 ## 🔗 Connect With Me
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/guwan-dehigasthenna-8a8593321" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
@@ -39,39 +43,58 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
 
 ---
 
-## 🛠️ Languages & Tools
-<div style="background:white; padding:20px; border-radius:10px;">
+## 🛠️ Languages & Tools (White Theme)
+**Professional white badges layout**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+### **💻 Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3670A0"/>
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=007396"/>
+  <img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=0095D5"/>
 </p>
 
-</div>
+### **🧰 Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React%20Native-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=000000"/>
+</p>
+
+### **🗄️ Databases**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-FFFFFF?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927"/>
+</p>
+
+### **🤖 AI Tools**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFFFFF?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=chainlink&logoColor=lightgray"/>
+</p>
+
+### **🛠️ Other Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guwangsv&show_icons=true&locale=en&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GUWANgsv&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUWANgsv&theme=default" />
 </p>
+
 
