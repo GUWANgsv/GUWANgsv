@@ -1,5 +1,4 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm <span style="color:#4fa3ff;">Guwan Dehigasthenna</span></h1>
+<h1 align="center">Hi 👋, I'm Guwan Dehigasthenna</h1>
 <h3 align="center">Full Stack Developer | GenAI & Agentic AI Learner | Sri Lanka 🇱🇰</h3>
 
 <p align="center">
@@ -8,16 +7,18 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
+I'm a passionate **Full Stack Developer** who loves building modern applications and diving deep into **Generative AI**, **Agentic AI systems**, and **AI automation**.
+
 - 💻 Full Stack Developer  
-- 🤖 Currently learning **Generative AI (GenAI)** & **Agentic AI systems**  
-- 🔥 Passionate about AI Agents, LLM Applications & Automation  
-- 📬 Contact me: **guwan.dehi@gmail.com**
+- 🤖 Currently learning **GenAI**, **Agentic AI**, **AI Agents**, and **LLM-based Apps**  
+- 🎨 Strong interest in design, UI/UX & modern frontend engineering  
+- 📬 Reach me: **guwan.dehi@gmail.com**
 
 ---
 
-## 🔗 Connect With Me  
-<p align="left">
+## 🔗 Connect With Me
+<p>
   <a href="https://www.linkedin.com/in/guwan-dehigasthenna-8a8593321" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
@@ -28,7 +29,7 @@
 
 ---
 
-## 🎓 Current Learning  
+## 📚 Current Learning
 <p align="center">
   <img src="https://img.shields.io/badge/GenAI-Learning-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-blue?style=for-the-badge" />
@@ -38,7 +39,8 @@
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Languages & Tools
+<div style="background:white; padding:20px; border-radius:10px;">
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" />
@@ -64,9 +66,12 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
 </p>
 
+</div>
+
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guwangsv&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guwangsv&show_icons=true&locale=en&layout=compact&theme=default" />
 </p>
+
