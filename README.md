@@ -87,7 +87,8 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GUWANgsv&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guwangsv&show_icons=true&theme=default" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUWANgsv&theme=default" />
 </p>
 
