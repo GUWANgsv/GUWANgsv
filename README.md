@@ -79,7 +79,7 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-  <img src="https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+  
   <img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 </p>
 
