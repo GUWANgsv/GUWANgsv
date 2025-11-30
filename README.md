@@ -57,7 +57,7 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
 ### **🧰 Frameworks & Libraries**
 <p>
   <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React%20Native-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
   <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031"/>
