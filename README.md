@@ -38,7 +38,6 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
   <img src="https://img.shields.io/badge/GenAI-Learning-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-Building-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Apps-Developing-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -73,12 +72,7 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
   <img src="https://img.shields.io/badge/SQL%20Server-FFFFFF?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927"/>
 </p>
 
-### **🤖 AI Tools**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFFFFF?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=chainlink&logoColor=lightgray"/>
-</p>
+
 
 ### **🛠️ Other Tools**
 <p>
