@@ -52,6 +52,8 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3670A0"/>
   <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=0095D5"/>
+  <img src="https://img.shields.io/badge/PHP-?style=for-the-badge&logo=php&logoColor=white&color=777BB4" />
+
 </p>
 
 ### **🧰 Frameworks & Libraries**
