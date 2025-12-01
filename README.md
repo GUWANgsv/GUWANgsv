@@ -60,7 +60,7 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
 <p>
   <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933"/>
+ 
   <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031"/>
   <img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
@@ -81,7 +81,7 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-  
+  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 </p>
 
