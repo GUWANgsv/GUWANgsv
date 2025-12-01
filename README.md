@@ -42,8 +42,8 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
 
 ---
 
-## 🛠️ Languages & Tools (White Theme)
-**Professional white badges layout**
+## 🛠️ Languages & Tools 
+
 
 ### **💻 Programming Languages**
 <p>
