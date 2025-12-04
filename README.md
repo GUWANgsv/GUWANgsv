@@ -87,12 +87,6 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUWANgsv&theme=default" />
-</p>
 
 
