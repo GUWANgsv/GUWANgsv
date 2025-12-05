@@ -12,11 +12,12 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Full Stack Developer** who loves building modern applications and diving deep into **Generative AI**, **Agentic AI systems**, and **AI automation**.
+I'm a passionate **Full Stack Developer** who loves building modern applications and exploring how AI can enhance **web development**, **automation**, and **SaaS application workflows**.
 
 - 💻 Full Stack Developer  
-- 🤖 Currently learning **GenAI**, **Agentic AI**, **AI Agents**, and **LLM-based Apps**  
-- 🎨 Strong interest in design, UI/UX & modern frontend engineering  
+- ⚡ Trying to learn **advanced web technologies**  
+- 🤖 Exploring how to integrate **AI into web apps & SaaS products**  
+- 🎨 Strong interest in UI/UX & modern frontend engineering  
 - 📬 Reach me: **guwan.dehi@gmail.com**
 
 ---
@@ -35,15 +36,14 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
 
 ## 📚 Current Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/GenAI-Learning-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Building-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Technologies-Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20for%20Web%20Apps-Exploring-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building%20SaaS%20Apps-Working%20On-orange?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools 
-
 
 ### **💻 Programming Languages**
 <p>
@@ -52,15 +52,11 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3670A0"/>
   <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=0095D5"/>
-
-
 </p>
 
 ### **🧰 Frameworks & Libraries**
 <p>
   <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
- 
   <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031"/>
   <img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
@@ -74,8 +70,6 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
   <img src="https://img.shields.io/badge/SQL%20Server-FFFFFF?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927"/>
 </p>
 
-
-
 ### **🛠️ Other Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
@@ -84,8 +78,6 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
   <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 </p>
-
----
 
 
 
