@@ -51,7 +51,6 @@ I'm a passionate **Full Stack Developer** and **Mobile Application Developer** w
   <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3670A0"/>
-
   <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=0095D5"/>
   <img src="https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=239120"/>
@@ -61,7 +60,7 @@ I'm a passionate **Full Stack Developer** and **Mobile Application Developer** w
 ### 🧰 Frameworks & Libraries (Web + Mobile)
 <p>
   <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/ASAP.NET-FFFFFF?style=for-the-badge&logo=dot-net&logoColor=512BD4"/>
+  <img src="https://img.shields.io/badge/ASP.NET-FFFFFF?style=for-the-badge&logo=dot-net&logoColor=512BD4"/>
   <img src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031"/>
   <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
   <img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
