@@ -38,7 +38,7 @@ I'm a passionate **Full Stack Developer** who loves building modern applications
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Technologies-Learning-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20for%20Web%20Apps-Exploring-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building%20SaaS%20Apps-Working%20On-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building%20SaaS%20Apps%20With%20AI-Working%20On-orange?style=for-the-badge" />
 </p>
 
 ---
