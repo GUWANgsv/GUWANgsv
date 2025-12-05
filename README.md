@@ -54,22 +54,26 @@ I'm a passionate **Full Stack Developer** and **Mobile Application Developer** w
 
   <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=0095D5"/>
+  <img src="https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=239120"/>
+  
 </p>
 
 ### 🧰 Frameworks & Libraries (Web + Mobile)
 <p>
   <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  
+  <img src="https://img.shields.io/badge/ASP.NET-FFFFFF?style=for-the-badge&logo=dot-net&logoColor=512BD4"/>
   <img src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031"/>
   <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
   <img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-
- 
   <img src="https://img.shields.io/badge/Android%20(Kotlin)-FFFFFF?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+  <img src="https://img.shields.io/badge/Flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=02569B"/>
+
+ <!--
   <img src="https://img.shields.io/badge/React%20Native-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
   <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=000000"/>
+  -->
 
 </p>
 
