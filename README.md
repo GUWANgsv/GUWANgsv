@@ -66,7 +66,7 @@ I'm a passionate **Full Stack Developer** and **Mobile Application Developer** w
   <img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
   <img src="https://img.shields.io/badge/Android%20(Kotlin)-FFFFFF?style=for-the-badge&logo=android&logoColor=3DDC84"/>
   <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=000000"/>
-
+    <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933"/>
  <!--
  <img src="https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=239120"/>
    <img src="https://img.shields.io/badge/ASP.NET-FFFFFF?style=for-the-badge&logo=dot-net&logoColor=512BD4"/>
@@ -91,6 +91,6 @@ I'm a passionate **Full Stack Developer** and **Mobile Application Developer** w
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933"/>
+
   <img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 </p>
