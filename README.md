@@ -67,7 +67,7 @@ I'm a passionate **Full Stack Developer** and **Mobile Application Developer** w
   <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-FFFFFF?style=for-the-badge&logo=springboot&logoColor=white"/>
 
 </p>
 
