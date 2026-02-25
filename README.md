@@ -38,8 +38,7 @@ I'm a passionate **Full Stack Developer** and **Mobile Application Developer** w
 ## 📚 Current Learning  
 <p align="center">
   <img src="https://img.shields.io/badge/Leveling%20Up-Web%20Tech%20Skills-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Exploring-AI%20Enhanced%20Web%20Applications-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-AI%20Powered%20SaaS%20Applications-orange?style=for-the-badge" />
+ 
 </p>
 
 ---
