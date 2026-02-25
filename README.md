@@ -16,7 +16,7 @@ I'm a passionate **Full Stack Developer** and **Mobile Application Developer** w
 
 - 💻 Full Stack Web & Mobile Developer  
 - ⚡ Learning **advanced web technologies & modern app architecture**  
-- 🤖 Exploring how to integrate **AI into Web Apps & SaaS Products**  
+- 🤖 Exploring how to Build **SaaS Products**  
 - 📱 Building mobile apps with clean, scalable architecture  
 - 🎨 Strong interest in UI/UX & frontend engineering  
 - 📬 Reach me: **guwan.dehi@gmail.com**
